@@ -1,0 +1,16 @@
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\IdentityEF_DependencyInjection.Core.dll.config
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\IdentityEF_DependencyInjection.Core.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\IdentityEF_DependencyInjection.Core.pdb
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\obj\Debug\IdentityEF_DependencyInjection.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\obj\Debug\IdentityEF_DependencyInjection.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\obj\Debug\IdentityEF_DependencyInjection.Core.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\obj\Debug\IdentityEF_DependencyInjection.Core.dll
+C:\Users\kurtulusocL\Desktop\IdentityEF_DependencyInjection\IdentityEF_DependencyInjection.Core\obj\Debug\IdentityEF_DependencyInjection.Core.pdb
